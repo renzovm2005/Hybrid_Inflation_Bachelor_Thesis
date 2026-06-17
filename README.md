@@ -1,0 +1,1 @@
+This repo contains code associated with Renzo Vianello Manetta's Bachelor Thesis on Inflationary Cosmology and Hybrid Inflation. It reproduces the potential landscape of Hybrid Inflation and solves the equations of motion to derive the number o e-folds after the critical value for the inflaton field and before the end of inflation.
